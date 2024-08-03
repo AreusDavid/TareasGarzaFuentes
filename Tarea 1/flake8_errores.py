@@ -1,5 +1,5 @@
-#Librería no utilizada
-import numpy
+# Librería no utilizada
+
 
 def factorial(num):
 
